@@ -3,9 +3,9 @@
 ## Main Page
 ![Screenshot 2021-05-05 at 21 06 48](https://user-images.githubusercontent.com/75091509/117138616-3b113980-ade6-11eb-88a6-e3fa335f1338.jpg)
 
-#Write Post
+# Write Post
 
-### Select Filter
+### Select FilterCancel changes
 ![Screenshot 2021-05-05 at 21 05 53](https://user-images.githubusercontent.com/75091509/117138606-38164900-ade6-11eb-9723-7a3d6929ab7a.jpg)
 
 ### Write text
